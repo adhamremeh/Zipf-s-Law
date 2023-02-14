@@ -1,0 +1,1000 @@
+8405837	New York
+3884307	Los Angeles
+2718782	Chicago
+2195914	Houston
+1553165	Philadelphia
+1513367	Phoenix
+1409019	San Antonio
+1355896	San Diego
+1257676	Dallas
+998537	San Jose
+885400	Austin
+843393	Indianapolis
+842583	Jacksonville
+837442	San Francisco
+822553	Columbus
+792862	Charlotte
+792727	Fort Worth
+688701	Detroit
+674433	El Paso
+653450	Memphis
+652405	Seattle
+649495	Denver
+646449	Washington
+645966	Boston
+634464	Nashville-Davidson
+622104	Baltimore
+610613	Oklahoma City
+609893	Louisville/Jefferson County
+609456	Portland
+603488	Las Vegas
+599164	Milwaukee
+556495	Albuquerque
+526116	Tucson
+509924	Fresno
+479686	Sacramento
+469428	Long Beach
+467007	Kansas City
+457587	Mesa
+448479	Virginia Beach
+447841	Atlanta
+439886	Colorado Springs
+434353	Omaha
+431746	Raleigh
+417650	Miami
+406253	Oakland
+400070	Minneapolis
+398121	Tulsa
+390113	Cleveland
+386552	Wichita
+379577	Arlington
+378715	New Orleans
+363630	Bakersfield
+352957	Tampa
+347884	Honolulu
+345803	Aurora
+345012	Anaheim
+334227	Santa Ana
+318416	St. Louis
+316619	Riverside
+316381	Corpus Christi
+308428	Lexington-Fayette
+305841	Pittsburgh
+300950	Anchorage
+298118	Stockton
+297517	Cincinnati
+294873	St. Paul
+282313	Toledo
+279639	Greensboro
+278427	Newark
+274409	Plano
+270811	Henderson
+268738	Lincoln
+258959	Buffalo
+257342	Jersey City
+256780	Chula Vista
+256496	Fort Wayne
+255483	Orlando
+249688	St. Petersburg
+249146	Chandler
+248142	Laredo
+246139	Norfolk
+245475	Durham
+243344	Madison
+239538	Lubbock
+236716	Irvine
+236441	Winston-Salem
+234632	Glendale
+234566	Garland
+233394	Hialeah
+233294	Reno
+230571	Chesapeake
+229972	Gilbert
+229426	Baton Rouge
+228653	Irving
+226918	Scottsdale
+226877	North Las Vegas
+224922	Fremont
+214237	Boise City
+214114	Richmond
+213708	San Bernardino
+212113	Birmingham
+210721	Spokane
+210358	Rochester
+207510	Des Moines
+204933	Modesto
+204408	Fayetteville
+203446	Tacoma
+203007	Oxnard
+203003	Fontana
+202824	Columbus
+201332	Montgomery
+201175	Moreno Valley
+200327	Shreveport
+199963	Aurora
+199766	Yonkers
+198100	Akron
+197575	Huntington Beach
+197357	Little Rock
+197350	Augusta-Richmond County
+196429	Amarillo
+196021	Glendale
+194899	Mobile
+192294	Grand Rapids
+191180	Salt Lake City
+186411	Tallahassee
+186254	Huntsville
+183372	Grand Prairie
+183270	Knoxville
+182544	Worcester
+182020	Newport News
+181860	Brownsville
+181260	Overland Park
+179590	Santa Clarita
+177994	Providence
+175140	Garden Grove
+173366	Chattanooga
+172794	Oceanside
+172638	Jackson
+172389	Fort Lauderdale
+171990	Santa Rosa
+171386	Rancho Cucamonga
+171016	Port St. Lucie
+168228	Tempe
+167500	Ontario
+167405	Vancouver
+165831	Cape Coral
+164676	Sioux Falls
+164122	Springfield
+162592	Peoria
+162329	Pembroke Pines
+161007	Elk Grove
+160614	Salem
+159523	Lancaster
+159503	Corona
+159190	Eugene
+157161	Palmdale
+155662	Salinas
+153703	Springfield
+152735	Pasadena
+152061	Fort Collins
+151574	Hayward
+151348	Pomona
+151088	Cary
+150251	Rockford
+148892	Alexandria
+148738	Escondido
+148559	McKinney
+148483	Kansas City
+147806	Joliet
+147559	Sunnyvale
+147478	Torrance
+147216	Bridgeport
+147214	Lakewood
+146526	Hollywood
+145948	Paterson
+144864	Naperville
+144669	Syracuse
+143484	Mesquite
+143355	Dayton
+142772	Savannah
+142357	Clarksville
+139969	Orange
+139731	Pasadena
+138981	Fullerton
+137147	Killeen
+136791	Frisco
+136699	Hampton
+136639	McAllen
+134873	Warren
+133992	Bellevue
+133579	West Valley City
+133358	Columbia
+131885	Olathe
+131224	Sterling Heights
+130660	New Haven
+130288	Miramar
+129030	Waco
+128731	Thousand Oaks
+128429	Cedar Rapids
+127999	Charleston
+127763	Visalia
+127679	Topeka
+127558	Elizabeth
+127488	Gainesville
+127359	Thornton
+127035	Roseville
+126700	Carrollton
+126604	Coral Springs
+126456	Stamford
+126181	Simi Valley
+125880	Concord
+125017	Hartford
+124435	Kent
+124276	Lafayette
+123933	Midland
+123546	Surprise
+123099	Denton
+121096	Victorville
+120310	Evansville
+120245	Santa Clara
+120099	Abilene
+119980	Athens-Clarke County
+118837	Vallejo
+118577	Allentown
+118197	Norman
+117796	Beaumont
+117240	Independence
+117044	Murfreesboro
+117025	Ann Arbor
+117006	Springfield
+116768	Berkeley
+116513	Peoria
+116288	Provo
+115708	El Monte
+115276	Columbia
+113972	Lansing
+113658	Fargo
+113242	Downey
+112174	Costa Mesa
+112067	Wilmington
+111707	Arvada
+111542	Inglewood
+111378	Miami Gardens
+110972	Carlsbad
+110945	Westminster
+110742	Rochester
+110720	Odessa
+110378	Manchester
+110145	Elgin
+110077	West Jordan
+109821	Round Rock
+109703	Clearwater
+109676	Waterbury
+109397	Gresham
+109320	Fairfield
+109059	Billings
+108861	Lowell
+108817	San Buenaventura (Ventura)
+108249	Pueblo
+107741	High Point
+107740	West Covina
+107571	Richmond
+107479	Murrieta
+107289	Cambridge
+107100	Antioch
+106780	Temecula
+106589	Norwalk
+106114	Centennial
+105370	Everett
+104898	Palm Bay
+104898	Wichita Falls
+104779	Green Bay
+104739	Daly City
+104709	Burbank
+104475	Richardson
+104410	Pompano Beach
+104054	North Charleston
+103500	Broken Arrow
+103166	Boulder
+102436	West Palm Beach
+102216	Santa Maria
+102211	El Cajon
+102157	Davenport
+101910	Rialto
+101324	Las Cruces
+101128	San Mateo
+101074	Lewisville
+100886	South Bend
+100710	Lakeland
+100671	Erie
+100223	Tyler
+100065	Pearland
+100050	College Station
+99889	Kenosha
+99770	Sandy Springs
+99769	Clovis
+99763	Flint
+98465	Roanoke
+98424	Albany
+98030	Jurupa Valley
+97877	Compton
+97492	San Angelo
+97368	Hillsboro
+97151	Lawton
+97003	Renton
+96929	Vista
+96830	Davie
+96539	Greeley
+96346	Mission Viejo
+96205	Portsmouth
+95884	Dearborn
+95677	South Gate
+95334	Tuscaloosa
+95208	Livonia
+95078	New Bedford
+94275	Vacaville
+94089	Brockton
+94034	Roswell
+93542	Beaverton
+93494	Quincy
+93282	Sparks
+93257	Yakima
+93184	Lee's Summit
+92734	Federal Way
+92599	Carson
+92472	Santa Monica
+92147	Hesperia
+92020	Allen
+91956	Rio Rancho
+91923	Yuma
+91739	Westminster
+91648	Orem
+91589	Lynn
+91119	Redding
+91113	Spokane Valley
+91026	Miami Beach
+90983	League City
+90811	Lawrence
+90412	Santa Barbara
+90268	Plantation
+90231	Sandy
+90116	Sunrise
+89981	Macon
+89919	Longmont
+89407	Boca Raton
+89387	San Marcos
+89130	Greenville
+88826	Waukegan
+88697	Fall River
+88077	Chico
+87971	Newton
+87965	San Leandro
+87893	Reading
+87776	Norwalk
+87650	Fort Smith
+87273	Newport Beach
+87236	Asheville
+87137	Nashua
+87004	Edmond
+86635	Whittier
+86518	Nampa
+86319	Bloomington
+86290	Deltona
+86199	Hawthorne
+86128	Duluth
+85927	Carmel
+85728	Suffolk
+85390	Clifton
+85285	Citrus Heights
+85156	Livermore
+84691	Tracy
+84577	Alhambra
+84430	Kirkland
+84349	Trenton
+84249	Ogden
+84126	Hoover
+84103	Cicero
+83891	Fishers
+83860	Sugar Land
+83684	Danbury
+83596	Meridian
+83539	Indio
+83506	Concord
+83447	Menifee
+83424	Champaign
+82882	Buena Park
+82821	Troy
+82809	O'Fallon
+82788	Johns Creek
+82631	Bellingham
+82578	Westland
+82575	Bloomington
+82459	Sioux City
+81971	Warwick
+81750	Hemet
+81443	Longview
+81295	Farmington Hills
+81236	Bend
+81121	Lakewood
+81102	Merced
+81050	Mission
+80988	Chino
+80872	Redwood City
+80836	Edinburg
+80566	Cranston
+80429	Parma
+79446	New Rochelle
+79312	Lake Forest
+79068	Napa
+78967	Hammond
+78960	Fayetteville
+78902	Bloomington
+78822	Avondale
+78804	Somerville
+78740	Palm Coast
+78709	Bryan
+78450	Gary
+78409	Largo
+78373	Brooklyn Park
+78327	Tustin
+78199	Racine
+78041	Deerfield Beach
+78014	Lynchburg
+77846	Mountain View
+77677	Medford
+77657	Lawrence
+77593	Bellflower
+77508	Melbourne
+77147	St. Joseph
+76903	Camden
+76817	St. George
+76762	Kennewick
+76635	Baldwin Park
+76572	Chino Hills
+76419	Alameda
+76185	Albany
+75994	Arlington Heights
+75806	Scranton
+75570	Evanston
+75548	Kalamazoo
+75418	Baytown
+75413	Upland
+75229	Springdale
+75018	Bethlehem
+74907	Schaumburg
+74885	Mount Pleasant
+74860	Auburn
+74710	Decatur
+74513	San Ramon
+74110	Pleasanton
+74100	Wyoming
+74024	Lake Charles
+73987	Plymouth
+73936	Bolingbrook
+73790	Pharr
+73596	Appleton
+73209	Gastonia
+73098	Folsom
+73006	Southfield
+72952	Rochester Hills
+72939	New Britain
+72864	Goodyear
+72535	Canton
+72531	Warner Robins
+72528	Union City
+72326	Perris
+71948	Manteca
+71591	Iowa City
+71551	Jonesboro
+71525	Wilmington
+71371	Lynwood
+71334	Loveland
+71172	Pawtucket
+71097	Boynton Beach
+71016	Waukesha
+71012	Gulfport
+70924	Apple Valley
+70868	Passaic
+70812	Rapid City
+70790	Layton
+70373	Lafayette
+70365	Turlock
+70316	Muncie
+70190	Temple
+70185	Missouri City
+69999	Redlands
+69976	Santa Fe
+69813	Lauderhill
+69783	Milpitas
+69350	Palatine
+69122	Missoula
+69103	Rock Hill
+69079	Jacksonville
+68886	Franklin
+68667	Flagstaff
+68609	Flower Mound
+68388	Weston
+68366	Waterloo
+68247	Union City
+68224	Mount Vernon
+68190	Fort Myers
+68001	Dothan
+67911	Rancho Cordova
+67815	Redondo Beach
+67685	Jackson
+67599	Pasco
+67569	St. Charles
+67545	Eau Claire
+67317	North Richland Hills
+67034	Bismarck
+67032	Yorba Linda
+66975	Kenner
+66900	Walnut Creek
+66893	Frederick
+66778	Oshkosh
+66695	Pittsburg
+66642	Palo Alto
+66333	Bossier City
+66318	Portland
+66297	St. Cloud
+66205	Davis
+66174	South San Francisco
+66086	Camarillo
+66075	North Little Rock
+65902	Schenectady
+65690	Gaithersburg
+65665	Harlingen
+65656	Woodbury
+65453	Eagan
+65416	Yuba City
+65415	Maple Grove
+65184	Youngstown
+65176	Skokie
+65173	Kissimmee
+65123	Johnson City
+65098	Victoria
+65040	San Clemente
+65028	Bayonne
+64652	Laguna Niguel
+64544	East Orange
+64323	Shawnee
+64079	Homestead
+64072	Rockville
+64072	Delray Beach
+63820	Janesville
+63816	Conway
+63771	Pico Rivera
+63710	Lorain
+63495	Montebello
+63338	Lodi
+63279	New Braunfels
+63269	Marysville
+63155	Tamarac
+63105	Madera
+63032	Conroe
+62864	Santa Cruz
+62603	Eden Prairie
+62448	Cheyenne
+62316	Daytona Beach
+62298	Alpharetta
+62258	Hamilton
+62227	Waltham
+62103	Coon Rapids
+62088	Haverhill
+61969	Council Bluffs
+61817	Taylor
+61808	Utica
+61792	Ames
+61653	La Habra
+61588	Encinitas
+61488	Bowling Green
+61434	Burnsville
+61397	Greenville
+61255	West Des Moines
+61238	Cedar Park
+61170	Tulare
+61085	Monterey Park
+61050	Vineland
+61025	Terre Haute
+61007	North Miami
+60872	Mansfield
+60697	West Allis
+60568	Bristol
+60519	Taylorsville
+60509	Malden
+60456	Meriden
+60407	Blaine
+60202	Wellington
+60189	Cupertino
+60177	Springfield
+60112	Rogers
+60070	St. Clair Shores
+59957	Gardena
+59887	Pontiac
+59834	National City
+59778	Grand Junction
+59738	Rocklin
+59635	Chapel Hill
+59628	Casper
+59471	Broomfield
+59440	Petaluma
+59366	South Jordan
+59357	Springfield
+59351	Great Falls
+59325	Lancaster
+59212	North Port
+59097	Lakewood
+59089	Marietta
+58994	San Rafael
+58946	Royal Oak
+58918	Des Plaines
+58879	Huntington Park
+58642	La Mesa
+58590	Orland Park
+58582	Auburn
+58562	Lakeville
+58416	Owensboro
+58414	Moore
+58298	Jupiter
+58292	Idaho Falls
+58253	Dubuque
+58226	Bartlett
+58043	Rowlett
+57960	Novi
+57866	White Plains
+57639	Arcadia
+57530	Redmond
+57525	Lake Elsinore
+57468	Ocala
+57282	Tinley Park
+57203	Port Orange
+57170	Medford
+57073	Oak Lawn
+56954	Rocky Mount
+56895	Kokomo
+56792	Coconut Creek
+56759	Bowie
+56758	Berwyn
+56756	Midwest City
+56707	Fountain Valley
+56683	Buckeye
+56620	Dearborn Heights
+56590	Woodland
+56540	Noblesville
+56481	Valdosta
+56449	Diamond Bar
+56143	Manhattan
+56105	Santee
+56069	Taunton
+56002	Sanford
+55870	Kettering
+55831	New Brunswick
+55816	Decatur
+55717	Chicopee
+55670	Anderson
+55456	Margate
+55419	Weymouth Town
+55361	Hempstead
+55298	Corvallis
+55191	Eastvale
+55174	Porterville
+55046	West Haven
+55000	Brentwood
+54980	Paramount
+54932	Grand Forks
+54898	Georgetown
+54842	St. Peters
+54790	Shoreline
+54771	Mount Prospect
+54686	Hanford
+54664	Normal
+54561	Rosemead
+54382	Lehi
+54350	Pocatello
+54291	Highland
+54194	Novato
+54135	Port Arthur
+54080	Carson City
+54076	San Marcos
+54068	Hendersonville
+53956	Elyria
+53756	Revere
+53752	Pflugerville
+53665	Greenwood
+53663	Bellevue
+53648	Wheaton
+53438	Smyrna
+53326	Sarasota
+53294	Blue Springs
+53243	Colton
+53224	Euless
+53063	Castle Rock
+52977	Cathedral City
+52962	Kingsport
+52844	Lake Havasu City
+52703	Pensacola
+52575	Hoboken
+52536	Yucaipa
+52477	Watsonville
+52413	Richland
+52403	Delano
+52398	Hoffman Estates
+52363	Florissant
+52206	Placentia
+52122	West New York
+52105	Dublin
+52066	Oak Park
+52044	Peabody
+51982	Perth Amboy
+51848	Battle Creek
+51763	Bradenton
+51701	Gilroy
+51644	Milford
+51583	Albany
+51567	Ankeny
+51522	La Crosse
+51510	Burlington
+51483	DeSoto
+51395	Harrisonburg
+51368	Minnetonka
+51265	Elkhart
+51143	Lakewood
+51074	Glendora
+50997	Southaven
+50821	Charleston
+50789	Joplin
+50725	Enid
+50699	Palm Beach Gardens
+50603	Brookhaven
+50588	Plainfield
+50550	Grand Island
+50508	Palm Desert
+50458	Huntersville
+50444	Tigard
+50344	Lenexa
+50303	Saginaw
+50233	Kentwood
+50213	Doral
+50201	Apple Valley
+50195	Grapevine
+50175	Aliso Viejo
+50169	Sammamish
+50111	Casa Grande
+49998	Pinellas Park
+49974	Troy
+49891	West Sacramento
+49858	Burien
+49799	Commerce City
+49761	Monroe
+49707	Cerritos
+49670	Downers Grove
+49631	Coral Gables
+49628	Wilson
+49468	Niagara Falls
+49417	Poway
+49376	Edina
+49267	Cuyahoga Falls
+49228	Rancho Santa Margarita
+49188	Harrisburg
+49177	Huntington
+49133	La Mirada
+49087	Cypress
+48957	Caldwell
+48913	Logan
+48733	Galveston
+48725	Sheboygan
+48630	Middletown
+48612	Murray
+48611	Roswell
+48608	Parker
+48592	Bedford
+48554	East Lansing
+48514	Methuen
+48508	Covina
+48426	Alexandria
+48338	Olympia
+48139	Euclid
+47989	Mishawaka
+47846	Salina
+47842	Azusa
+47777	Newark
+47749	Chesterfield
+47673	Leesburg
+47591	Dunwoody
+47556	Hattiesburg
+47555	Roseville
+47547	Bonita Springs
+47523	Portage
+47411	St. Louis Park
+47333	Collierville
+47333	Middletown
+47186	Stillwater
+47149	East Providence
+47135	Lawrence
+47134	Wauwatosa
+46979	Mentor
+46714	Ceres
+46663	Cedar Hill
+46454	Mansfield
+46444	Binghamton
+46402	Coeur d'Alene
+46377	San Luis Obispo
+46321	Minot
+46281	Palm Springs
+46094	Pine Bluff
+46081	Texas City
+46074	Summerville
+45981	Twin Falls
+45929	Jeffersonville
+45851	San Jacinto
+45799	Madison
+45796	Altoona
+45775	Columbus
+45712	Beavercreek
+45587	Apopka
+45556	Elmhurst
+45508	Maricopa
+45426	Farmington
+45417	Glenview
+45394	Cleveland Heights
+45285	Draper
+45237	Lincoln
+45129	Sierra Vista
+44919	Lacey
+44820	Biloxi
+44730	Strongsville
+44641	Barnstable Town
+44575	Wylie
+44412	Sayreville
+44359	Kannapolis
+44349	Charlottesville
+44275	Littleton
+44206	Titusville
+44113	Hackensack
+44096	Newark
+44057	Pittsfield
+43935	York
+43907	Lombard
+43886	Attleboro
+43849	DeKalb
+43609	Blacksburg
+43607	Dublin
+43580	Haltom City
+43509	Lompoc
+43363	El Centro
+43341	Danville
+43330	Jefferson City
+43328	Cutler Bay
+43286	Oakland Park
+43250	North Miami Beach
+43167	Freeport
+43116	Moline
+43092	Coachella
+43074	Fort Pierce
+43060	Smyrna
+43023	Bountiful
+42970	Fond du Lac
+42935	Everett
+42907	Danville
+42907	Keller
+42895	Belleville
+42889	Bell Gardens
+42774	Cleveland
+42757	North Lauderdale
+42635	Fairfield
+42544	Salem
+42448	Rancho Palos Verdes
+42443	San Bruno
+42419	Concord
+42284	Burlington
+42214	Apex
+42181	Midland
+42150	Altamonte Springs
+41889	Hutchinson
+41778	Buffalo Grove
+41776	Urbandale
+41757	State College
+41752	Urbana
+41734	Plainfield
+41705	Manassas
+41679	Bartlett
+41664	Kearny
+41627	Oro Valley
+41512	Findlay
+41398	Rohnert Park
+41301	Westfield
+41301	Linden
+41190	Sumter
+41108	Wilkes-Barre
+41026	Woonsocket
+41002	Leominster
+40999	Shelton
+40963	Brea
+40956	Covington
+40922	Rockwall
+40921	Meridian
+40921	Riverton
+40918	St. Cloud
+40915	Quincy
+40836	Morgan Hill
+40768	Warren
+40727	Edmonds
+40714	Burleson
+40664	Beverly
+40641	Mankato
+40612	Hagerstown
+40590	Prescott
+40584	Campbell
+40566	Cedar Falls
+40481	Beaumont
+40435	La Puente
+40388	Crystal Lake
+40383	Fitchburg
+40379	Carol Stream
+40361	Hickory
+40351	Streamwood
+40347	Norwich
+40342	Coppell
+40275	San Gabriel
+40249	Holyoke
+40167	Bentonville
+40059	Florence
+40059	Peachtree Corners
+40021	Brentwood
+39860	Bozeman
+39834	New Berlin
+39823	Goose Creek
+39795	Huntsville
+39791	Prescott Valley
+39765	Maplewood
+39650	Romeoville
+39605	Duncanville
+39551	Atlantic City
+39508	Clovis
+39458	The Colony
+39428	Culver City
+39414	Marlborough
+39412	Hilton Head Island
+39398	Moorhead
+39389	Calexico
+39383	Bullhead City
+39375	Germantown
+39331	La Quinta
+39325	Lancaster
+39309	Wausau
+39296	Sherman
+39172	Ocoee
+39167	Shakopee
+39083	Woburn
+39056	Bremerton
+38877	Rock Island
+38863	Muskogee
+38816	Cape Girardeau
+38722	Annapolis
+38696	Greenacres
+38661	Ormond Beach
+38632	Hallandale Beach
+38623	Stanton
+38609	Puyallup
+38606	Pacifica
+38510	Hanover Park
+38448	Hurst
+38355	Lima
+38290	Marana
+38241	Carpentersville
+38194	Oakley
+38142	Huber Heights
+38071	Lancaster
+38027	Montclair
+38015	Wheeling
+37999	Brookfield
+37839	Park Ridge
+37792	Florence
+37733	Roy
+37711	Winter Garden
+37670	Chelsea
+37659	Valley Stream
+37647	Spartanburg
+37610	Lake Oswego
+37587	Friendswood
+37530	Westerville
+37499	Northglenn
+37498	Phenix City
+37490	Grove City
+37442	Texarkana
+37385	Addison
+37366	Dover
+37313	Lincoln Park
+37240	Calumet City
+37213	Muskegon
+37199	Aventura
+37165	Martinez
+37159	Greenfield
+37130	Apache Junction
+37101	Monrovia
+37093	Weslaco
+37064	Keizer
+36956	Spanish Fork
+36888	Beloit
+36877	Panama City
